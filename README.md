@@ -32,11 +32,11 @@ This project demonstrates:
 
 ```
 <img src="p701.png" width="300"/>
-<img src="p702.png.png" width="300"/>
-<img src="p703.png.png" width="300"/>
-<img src="p704.png.png" width="300"/>
-<img src="p705.png.png" width="300"/>
-<img src="p706.png.png" width="300"/>
+<img src="p702.png" width="300"/>
+<img src="p703.png" width="300"/>
+<img src="p704.png" width="300"/>
+<img src="p705.png" width="300"/>
+<img src="p706.png" width="300"/>
 ```
 
 ## Future Improvements

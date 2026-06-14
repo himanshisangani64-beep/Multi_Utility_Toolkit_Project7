@@ -16,6 +16,7 @@ A  provides **multiple utilities** in one place, including Date & Time Operation
 
 ##  Learning Objectives
 
+```
 This project demonstrates:
 
 - Functions
@@ -37,7 +38,6 @@ This project demonstrates:
 <img src="p704.png" width="300"/>
 <img src="p705.png" width="300"/>
 <img src="p706.png" width="300"/>
-```
 
 ## Future Improvements
 
